@@ -36,7 +36,7 @@ const ToDo = () => {
       )
       setInputData('')
       setIsEditItem(null)
-      setTogggleButton(true)
+      setTogggleButton(false)
     }
     else {
       const myNewInputData = {
